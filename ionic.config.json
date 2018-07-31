@@ -1,0 +1,7 @@
+{
+  "name": "ponal-120-nombre_del_proyecto-ionic-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
